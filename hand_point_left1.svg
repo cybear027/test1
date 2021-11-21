@@ -1,0 +1,65 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,1024,1024">
+	<!-- Color names: app-icon-color-1 -->
+	<desc>hand_point_left icon - Licensed under Iconfu Standard License v1.0 (https://www.iconfu.com/iconfu_standard_license) - Incors GmbH</desc>
+	<defs>
+		<clipPath id="clip-dtO7mCv6">
+			<path d="M832,352h128v384h-128c-17.62,0 -32,-14.38 -32,-32v-320c0,-17.62 14.38,-32 32,-32z"/>
+		</clipPath>
+		<clipPath id="clip-GbxlFVtl">
+			<path d="M806.53,376.88l82.47,27.49l7,299.63h-85.33c-28.87,0 -53.7,8.28 -76.8,25.6l-36.37,27.27v-467.21z"/>
+		</clipPath>
+		<filter id="filter-2rNQDKqq" x="-65%" y="-14%" width="770%" height="218%" color-interpolation-filters="sRGB">
+			<feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.17 0" in="SourceGraphic"/>
+			<feOffset dy="16.67"/>
+			<feGaussianBlur stdDeviation="9.17" result="blur0"/>
+			<feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.25 0" in="SourceGraphic"/>
+			<feOffset dy="25"/>
+			<feGaussianBlur stdDeviation="25" result="blur1"/>
+			<feMerge>
+				<feMergeNode in="blur0"/>
+				<feMergeNode in="blur1"/>
+			</feMerge>
+		</filter>
+		<filter id="filter-GS8Zvb6F" x="-46%" y="-14%" width="549%" height="218%" color-interpolation-filters="sRGB">
+			<feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.17 0" in="SourceGraphic"/>
+			<feOffset dy="16.67"/>
+			<feGaussianBlur stdDeviation="9.17" result="blur0"/>
+			<feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.25 0" in="SourceGraphic"/>
+			<feOffset dy="25"/>
+			<feGaussianBlur stdDeviation="25" result="blur1"/>
+			<feMerge>
+				<feMergeNode in="blur0"/>
+				<feMergeNode in="blur1"/>
+			</feMerge>
+		</filter>
+	</defs>
+	<g fill="blue" fill-rule="nonzero" style="mix-blend-mode: normal">
+		<g>
+			<g color="currentColor" class="app-icon-color-1">
+				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32v-384c0,-17.62 14.38,-32 32,-32z" fill="currentColor"/>
+			</g>
+            <g color="currentColor" class="app-icon-color-1">
+				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32v-384c0,-17.62 14.38,-32 32,-32z" fill="currentColor"/>
+			</g>
+            <g color="currentColor" class="app-icon-color-1">
+				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32v-384c0,-17.62 14.38,-32 32,-32z" fill="currentColor"/>
+			</g>
+            <g color="currentColor" class="app-icon-color-1">
+				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32v-384c0,-17.62 14.38,-32 32,-32z" fill="currentColor"/>
+			</g>
+            
+			<g clip-path="url(#clip-GbxlFVtl)">
+				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32h-32c-17.62,0 -32,-14.38 -32,-32v-320c0,-17.62 14.38,-32 32,-32h32c0,-17.62 14.38,-32 32,-32z" fill="#000000" filter="url(#filter-GS8Zvb6F)"/>
+			</g>
+			<g color="currentColor" class="app-icon-color-1">
+				<path d="M832,352h128v384h-128c-17.62,0 -32,-14.38 -32,-32v-320c0,-17.62 14.38,-32 32,-32z" fill="currentColor"/>
+			</g>
+			<g clip-path="url(#clip-dtO7mCv6)">
+				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32v-384c0,-17.62 14.38,-32 32,-32z" fill="#000000" filter="url(#filter-2rNQDKqq)"/>
+			</g>
+			<g color="currentColor" class="app-icon-color-1">
+				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32v-384c0,-17.62 14.38,-32 32,-32z" fill="currentColor"/>
+			</g>
+		</g>
+	</g>
+</svg>
