@@ -38,6 +38,16 @@
 			<g color="currentColor" class="app-icon-color-1">
 				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32v-384c0,-17.62 14.38,-32 32,-32z" fill="currentColor"/>
 			</g>
+            <g color="currentColor" class="app-icon-color-1">
+				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32v-384c0,-17.62 14.38,-32 32,-32z" fill="currentColor"/>
+			</g>
+            <g color="currentColor" class="app-icon-color-1">
+				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32v-384c0,-17.62 14.38,-32 32,-32z" fill="currentColor"/>
+			</g>
+            <g color="currentColor" class="app-icon-color-1">
+				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32v-384c0,-17.62 14.38,-32 32,-32z" fill="currentColor"/>
+			</g>
+            
 			<g clip-path="url(#clip-GbxlFVtl)">
 				<path d="M896,320h128v448h-128c-17.62,0 -32,-14.38 -32,-32h-32c-17.62,0 -32,-14.38 -32,-32v-320c0,-17.62 14.38,-32 32,-32h32c0,-17.62 14.38,-32 32,-32z" fill="#000000" filter="url(#filter-GS8Zvb6F)"/>
 			</g>
